@@ -1,0 +1,10 @@
+Process the following files in /Needs_Action: FILE_20260227_150653_continuous_test.txt.meta.md
+
+For each file:
+1. Read and understand what action is needed
+2. Check Company_Handbook.md for rules
+3. Create a Plan.md if multiple steps are needed
+4. Execute simple actions or create approval requests for sensitive ones
+5. Move completed items to /Done
+
+Reference the Company Handbook for decision-making rules.

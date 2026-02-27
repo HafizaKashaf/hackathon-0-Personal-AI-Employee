@@ -1,0 +1,22 @@
+# Python dependencies for Personal AI Employee - Bronze Tier
+# Install with: pip install -r requirements.txt
+
+# Core dependencies (Bronze Tier)
+# No external dependencies required - uses only Python standard library
+
+# Optional: For enhanced logging
+# colorama>=0.4.6
+
+# Silver Tier dependencies (uncomment when ready)
+# google-api-python-client>=2.0.0  # Gmail API
+# google-auth-httplib2>=0.1.0
+# google-auth-oauthlib>=1.0.0
+
+# WhatsApp Watcher (uses browsing-with-playwright skill)
+# playwright>=1.40.0
+
+# File system watching (alternative to polling)
+# watchdog>=3.0.0
+
+# Orchestrator enhancements
+# schedule>=1.2.0  # For scheduled tasks

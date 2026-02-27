@@ -1,0 +1,31 @@
+2026-02-26 16:07:53,367 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-02-26 16:07:53,368 - FileSystemWatcher - INFO - Vault path: ..
+2026-02-26 16:07:53,368 - FileSystemWatcher - INFO - Check interval: 30s
+2026-02-26 16:07:53,372 - FileSystemWatcher - INFO - New file detected: sample_invoice.txt
+2026-02-26 16:07:53,372 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-02-26 16:07:53,382 - FileSystemWatcher - INFO - Created metadata file: FILE_20260226_160753_sample_invoice.txt.meta.md
+2026-02-26 16:07:53,383 - FileSystemWatcher - INFO - Created action file: FILE_20260226_160753_sample_invoice.txt.meta.md
+2026-02-26 16:48:05,792 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-02-26 16:48:05,812 - FileSystemWatcher - INFO - Vault path: C:\Users\Surface\Documents\GitHub\hackathon-0-Personal-AI-Employee\AI_Employee_Vault
+2026-02-26 16:48:05,812 - FileSystemWatcher - INFO - Check interval: 30s
+2026-02-26 16:48:05,814 - FileSystemWatcher - INFO - New file detected: sample_invoice.txt
+2026-02-26 16:48:05,815 - FileSystemWatcher - INFO - New file detected: test_file.md
+2026-02-26 16:48:05,815 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-02-26 16:48:05,824 - FileSystemWatcher - INFO - Created metadata file: FILE_20260226_164805_sample_invoice.txt.meta.md
+2026-02-26 16:48:05,825 - FileSystemWatcher - INFO - Created action file: FILE_20260226_164805_sample_invoice.txt.meta.md
+2026-02-26 16:48:05,831 - FileSystemWatcher - INFO - Created metadata file: FILE_20260226_164805_test_file.md.meta.md
+2026-02-26 16:48:05,832 - FileSystemWatcher - INFO - Created action file: FILE_20260226_164805_test_file.md.meta.md
+2026-02-26 16:55:26,132 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-02-26 16:55:26,133 - FileSystemWatcher - INFO - Vault path: C:\Users\Surface\Documents\GitHub\hackathon-0-Personal-AI-Employee\AI_Employee_Vault
+2026-02-26 16:55:26,133 - FileSystemWatcher - INFO - Check interval: 30s
+2026-02-26 16:55:26,135 - FileSystemWatcher - INFO - New file detected: sample_invoice.txt
+2026-02-26 16:55:26,136 - FileSystemWatcher - INFO - New file detected: test_file.md
+2026-02-26 16:55:26,137 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-02-26 16:55:26,145 - FileSystemWatcher - INFO - Created metadata file: FILE_20260226_165526_sample_invoice.txt.meta.md
+2026-02-26 16:55:26,146 - FileSystemWatcher - INFO - Created action file: FILE_20260226_165526_sample_invoice.txt.meta.md
+2026-02-26 16:55:26,151 - FileSystemWatcher - INFO - Created metadata file: FILE_20260226_165526_test_file.md.meta.md
+2026-02-26 16:55:26,151 - FileSystemWatcher - INFO - Created action file: FILE_20260226_165526_test_file.md.meta.md
+2026-02-27 15:06:53,674 - FileSystemWatcher - INFO - New file detected: continuous_test.txt
+2026-02-27 15:06:53,694 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-02-27 15:06:53,715 - FileSystemWatcher - INFO - Created metadata file: FILE_20260227_150653_continuous_test.txt.meta.md
+2026-02-27 15:06:53,718 - FileSystemWatcher - INFO - Created action file: FILE_20260227_150653_continuous_test.txt.meta.md

@@ -1,0 +1,7 @@
+2026-02-27 14:54:08,431 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-02-27 14:54:08,432 - FileSystemWatcher - INFO - Vault path: C:\Users\Surface\Documents\GitHub\hackathon-0-Personal-AI-Employee\AI_Employee_Vault
+2026-02-27 14:54:08,432 - FileSystemWatcher - INFO - Check interval: 30s
+2026-02-27 14:54:08,434 - FileSystemWatcher - INFO - New file detected: test_file.md
+2026-02-27 14:54:08,434 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-02-27 14:54:08,448 - FileSystemWatcher - INFO - Created metadata file: FILE_20260227_145408_test_file.md.meta.md
+2026-02-27 14:54:08,450 - FileSystemWatcher - INFO - Created action file: FILE_20260227_145408_test_file.md.meta.md
